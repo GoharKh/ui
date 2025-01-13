@@ -1,0 +1,13 @@
+export const dark = "#1B1B1B";
+export const gray = "#C4C4C4";
+export const white = "#FFFFFF";
+export const black = "#000000";
+export const gray1 = "#9B9591";
+export const gray2 = "#6F6F6F";
+export const gray3 = "#F5F5F5";
+export const border2 = "#E2E0DF";
+export const gradient1 = "#313B9882";
+export const gradient2 = "#3644C3BD";
+export const underline1 = "#9B959180";
+export const primaryColor = "#212121";
+export const secondaryColor = "#4859F0";
